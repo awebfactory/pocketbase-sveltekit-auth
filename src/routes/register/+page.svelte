@@ -1,0 +1,14 @@
+<form method="POST" class="card">
+	<h1 class="text-2xl bm-8">Register</h1>
+	<div class="form-control gap-2 mb-4">
+		<input type="email" name="email" placeholder="Email" class="input input-bordered" />
+		<input type="password" name="password" placeholder="Password" class="input input-bordered" />
+		<input
+			type="password"
+			name="passwordConfirm"
+			placeholder="Confirm password"
+			class="input input-bordered"
+		/>
+		<button class="btn btn-primary">Register</button>
+	</div>
+</form>
