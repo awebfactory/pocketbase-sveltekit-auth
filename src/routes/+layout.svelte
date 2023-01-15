@@ -9,8 +9,8 @@
 		</div>
 		<div class="navbar-end">
 			<ul class="menu menu-horizontal">
-				<li><a href="/login" />Login</li>
-				<li><a href="/register" />Register</li>
+				<li><a href="/login">Login</a></li>
+				<li><a href="/register">Register</a></li>
 			</ul>
 		</div>
 	</div>
