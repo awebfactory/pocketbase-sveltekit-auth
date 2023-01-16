@@ -1,3 +1,5 @@
+> Step by step commits following Jian Yuan Lee's excellent YouTube Tutorial [SvelteKit + PocketBase Integration: User Login and Registration](https://youtu.be/AxPB3e-3yEM)
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
